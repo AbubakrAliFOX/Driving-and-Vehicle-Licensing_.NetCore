@@ -1,0 +1,97 @@
+E:\Downloads\WebDev\Projects\DVL\DataLayer\bin\Debug\DataLayer.dll
+E:\Downloads\WebDev\Projects\DVL\DataLayer\bin\Debug\DataLayer.pdb
+E:\Downloads\WebDev\Projects\DVL\DataLayer\bin\Debug\BCrypt.Net-Next.dll
+E:\Downloads\WebDev\Projects\DVL\DataLayer\bin\Debug\System.Buffers.dll
+E:\Downloads\WebDev\Projects\DVL\DataLayer\bin\Debug\System.Memory.dll
+E:\Downloads\WebDev\Projects\DVL\DataLayer\bin\Debug\System.Numerics.Vectors.dll
+E:\Downloads\WebDev\Projects\DVL\DataLayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Downloads\WebDev\Projects\DVL\DataLayer\bin\Debug\BCrypt.Net-Next.xml
+E:\Downloads\WebDev\Projects\DVL\DataLayer\bin\Debug\System.Buffers.xml
+E:\Downloads\WebDev\Projects\DVL\DataLayer\bin\Debug\System.Memory.xml
+E:\Downloads\WebDev\Projects\DVL\DataLayer\bin\Debug\System.Numerics.Vectors.xml
+E:\Downloads\WebDev\Projects\DVL\DataLayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Downloads\WebDev\Projects\DVL\DataLayer\obj\Debug\DataLayer.csproj.AssemblyReference.cache
+E:\Downloads\WebDev\Projects\DVL\DataLayer\obj\Debug\DataLayer.csproj.CoreCompileInputs.cache
+E:\Downloads\WebDev\Projects\DVL\DataLayer\obj\Debug\DataLayer.dll
+E:\Downloads\WebDev\Projects\DVL\DataLayer\obj\Debug\DataLayer.pdb
+E:\Downloads\WebDev\Projects\DVL\DataLayer\obj\Debug\DataLayer.csproj.Up2Date
+E:\Downloads\WebDev\Projects\DVL Coree\DataLayer\bin\Debug\DataLayer.dll
+E:\Downloads\WebDev\Projects\DVL Coree\DataLayer\bin\Debug\DataLayer.pdb
+E:\Downloads\WebDev\Projects\DVL Coree\DataLayer\bin\Debug\BCrypt.Net-Next.dll
+E:\Downloads\WebDev\Projects\DVL Coree\DataLayer\bin\Debug\System.Buffers.dll
+E:\Downloads\WebDev\Projects\DVL Coree\DataLayer\bin\Debug\System.Memory.dll
+E:\Downloads\WebDev\Projects\DVL Coree\DataLayer\bin\Debug\System.Numerics.Vectors.dll
+E:\Downloads\WebDev\Projects\DVL Coree\DataLayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Downloads\WebDev\Projects\DVL Coree\DataLayer\bin\Debug\BCrypt.Net-Next.xml
+E:\Downloads\WebDev\Projects\DVL Coree\DataLayer\bin\Debug\System.Buffers.xml
+E:\Downloads\WebDev\Projects\DVL Coree\DataLayer\bin\Debug\System.Memory.xml
+E:\Downloads\WebDev\Projects\DVL Coree\DataLayer\bin\Debug\System.Numerics.Vectors.xml
+E:\Downloads\WebDev\Projects\DVL Coree\DataLayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Downloads\WebDev\Projects\DVL Coree\DataLayer\obj\Debug\DataLayer.csproj.AssemblyReference.cache
+E:\Downloads\WebDev\Projects\DVL Coree\DataLayer\obj\Debug\DataLayer.csproj.CoreCompileInputs.cache
+E:\Downloads\WebDev\Projects\DVL Coree\DataLayer\obj\Debug\DataLayer.csproj.Up2Date
+E:\Downloads\WebDev\Projects\DVL Coree\DataLayer\obj\Debug\DataLayer.dll
+E:\Downloads\WebDev\Projects\DVL Coree\DataLayer\obj\Debug\DataLayer.pdb
+E:\Downloads\WebDev\Projects\DVL Coree\DataLayer\bin\Debug\DataLayer.dll.config
+E:\Downloads\WebDev\Projects\DVL Coree\DataLayer\bin\Debug\Azure.Core.dll
+E:\Downloads\WebDev\Projects\DVL Coree\DataLayer\bin\Debug\Azure.Identity.dll
+E:\Downloads\WebDev\Projects\DVL Coree\DataLayer\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Downloads\WebDev\Projects\DVL Coree\DataLayer\bin\Debug\Microsoft.Data.SqlClient.dll
+E:\Downloads\WebDev\Projects\DVL Coree\DataLayer\bin\Debug\Microsoft.Identity.Client.dll
+E:\Downloads\WebDev\Projects\DVL Coree\DataLayer\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Downloads\WebDev\Projects\DVL Coree\DataLayer\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+E:\Downloads\WebDev\Projects\DVL Coree\DataLayer\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Downloads\WebDev\Projects\DVL Coree\DataLayer\bin\Debug\Microsoft.IdentityModel.Logging.dll
+E:\Downloads\WebDev\Projects\DVL Coree\DataLayer\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+E:\Downloads\WebDev\Projects\DVL Coree\DataLayer\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Downloads\WebDev\Projects\DVL Coree\DataLayer\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+E:\Downloads\WebDev\Projects\DVL Coree\DataLayer\bin\Debug\System.ClientModel.dll
+E:\Downloads\WebDev\Projects\DVL Coree\DataLayer\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\Downloads\WebDev\Projects\DVL Coree\DataLayer\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\Downloads\WebDev\Projects\DVL Coree\DataLayer\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+E:\Downloads\WebDev\Projects\DVL Coree\DataLayer\bin\Debug\System.IO.FileSystem.AccessControl.dll
+E:\Downloads\WebDev\Projects\DVL Coree\DataLayer\bin\Debug\System.Memory.Data.dll
+E:\Downloads\WebDev\Projects\DVL Coree\DataLayer\bin\Debug\System.Security.AccessControl.dll
+E:\Downloads\WebDev\Projects\DVL Coree\DataLayer\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+E:\Downloads\WebDev\Projects\DVL Coree\DataLayer\bin\Debug\System.Security.Permissions.dll
+E:\Downloads\WebDev\Projects\DVL Coree\DataLayer\bin\Debug\System.Security.Principal.Windows.dll
+E:\Downloads\WebDev\Projects\DVL Coree\DataLayer\bin\Debug\System.Text.Encodings.Web.dll
+E:\Downloads\WebDev\Projects\DVL Coree\DataLayer\bin\Debug\System.Text.Json.dll
+E:\Downloads\WebDev\Projects\DVL Coree\DataLayer\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\Downloads\WebDev\Projects\DVL Coree\DataLayer\bin\Debug\System.ValueTuple.dll
+E:\Downloads\WebDev\Projects\DVL Coree\DataLayer\bin\Debug\Azure.Core.xml
+E:\Downloads\WebDev\Projects\DVL Coree\DataLayer\bin\Debug\Azure.Identity.xml
+E:\Downloads\WebDev\Projects\DVL Coree\DataLayer\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\Downloads\WebDev\Projects\DVL Coree\DataLayer\bin\Debug\Microsoft.Data.SqlClient.xml
+E:\Downloads\WebDev\Projects\DVL Coree\DataLayer\bin\Debug\Microsoft.Identity.Client.xml
+E:\Downloads\WebDev\Projects\DVL Coree\DataLayer\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+E:\Downloads\WebDev\Projects\DVL Coree\DataLayer\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+E:\Downloads\WebDev\Projects\DVL Coree\DataLayer\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+E:\Downloads\WebDev\Projects\DVL Coree\DataLayer\bin\Debug\Microsoft.IdentityModel.Logging.xml
+E:\Downloads\WebDev\Projects\DVL Coree\DataLayer\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+E:\Downloads\WebDev\Projects\DVL Coree\DataLayer\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+E:\Downloads\WebDev\Projects\DVL Coree\DataLayer\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+E:\Downloads\WebDev\Projects\DVL Coree\DataLayer\bin\Debug\System.ClientModel.xml
+E:\Downloads\WebDev\Projects\DVL Coree\DataLayer\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\Downloads\WebDev\Projects\DVL Coree\DataLayer\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\Downloads\WebDev\Projects\DVL Coree\DataLayer\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+E:\Downloads\WebDev\Projects\DVL Coree\DataLayer\bin\Debug\System.IO.FileSystem.AccessControl.xml
+E:\Downloads\WebDev\Projects\DVL Coree\DataLayer\bin\Debug\System.Memory.Data.xml
+E:\Downloads\WebDev\Projects\DVL Coree\DataLayer\bin\Debug\System.Security.AccessControl.xml
+E:\Downloads\WebDev\Projects\DVL Coree\DataLayer\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+E:\Downloads\WebDev\Projects\DVL Coree\DataLayer\bin\Debug\System.Security.Permissions.xml
+E:\Downloads\WebDev\Projects\DVL Coree\DataLayer\bin\Debug\System.Security.Principal.Windows.xml
+E:\Downloads\WebDev\Projects\DVL Coree\DataLayer\bin\Debug\System.Text.Encodings.Web.xml
+E:\Downloads\WebDev\Projects\DVL Coree\DataLayer\bin\Debug\System.Text.Json.xml
+E:\Downloads\WebDev\Projects\DVL Coree\DataLayer\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\Downloads\WebDev\Projects\DVL Coree\DataLayer\bin\Debug\System.ValueTuple.xml
+E:\Downloads\WebDev\Projects\DVL Coree\DataLayer\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+E:\Downloads\WebDev\Projects\DVL Coree\DataLayer\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+E:\Downloads\WebDev\Projects\DVL Coree\DataLayer\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+E:\Downloads\WebDev\Projects\DVL Coree\DataLayer\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+E:\Downloads\WebDev\Projects\DVL Coree\DataLayer\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+E:\Downloads\WebDev\Projects\DVL Coree\DataLayer\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+E:\Downloads\WebDev\Projects\DVL Coree\DataLayer\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+E:\Downloads\WebDev\Projects\DVL Coree\DataLayer\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+E:\Downloads\WebDev\Projects\DVL Coree\DataLayer\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+E:\Downloads\WebDev\Projects\DVL Coree\DataLayer\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll

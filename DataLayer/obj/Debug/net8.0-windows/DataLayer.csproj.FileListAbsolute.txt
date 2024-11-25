@@ -1,0 +1,11 @@
+E:\Downloads\WebDev\Projects\DVL Coree\DataLayer\bin\Debug\net8.0-windows\DataLayer.dll.config
+E:\Downloads\WebDev\Projects\DVL Coree\DataLayer\bin\Debug\net8.0-windows\DataLayer.deps.json
+E:\Downloads\WebDev\Projects\DVL Coree\DataLayer\bin\Debug\net8.0-windows\DataLayer.dll
+E:\Downloads\WebDev\Projects\DVL Coree\DataLayer\bin\Debug\net8.0-windows\DataLayer.pdb
+E:\Downloads\WebDev\Projects\DVL Coree\DataLayer\obj\Debug\net8.0-windows\DataLayer.csproj.AssemblyReference.cache
+E:\Downloads\WebDev\Projects\DVL Coree\DataLayer\obj\Debug\net8.0-windows\DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+E:\Downloads\WebDev\Projects\DVL Coree\DataLayer\obj\Debug\net8.0-windows\DataLayer.csproj.CoreCompileInputs.cache
+E:\Downloads\WebDev\Projects\DVL Coree\DataLayer\obj\Debug\net8.0-windows\DataLayer.dll
+E:\Downloads\WebDev\Projects\DVL Coree\DataLayer\obj\Debug\net8.0-windows\refint\DataLayer.dll
+E:\Downloads\WebDev\Projects\DVL Coree\DataLayer\obj\Debug\net8.0-windows\DataLayer.pdb
+E:\Downloads\WebDev\Projects\DVL Coree\DataLayer\obj\Debug\net8.0-windows\ref\DataLayer.dll

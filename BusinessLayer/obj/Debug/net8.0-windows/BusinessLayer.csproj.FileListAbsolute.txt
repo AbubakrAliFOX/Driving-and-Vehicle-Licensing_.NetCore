@@ -1,0 +1,15 @@
+E:\Downloads\WebDev\Projects\DVL Coree\BusinessLayer\bin\Debug\net8.0-windows\BusinessLayer.dll.config
+E:\Downloads\WebDev\Projects\DVL Coree\BusinessLayer\bin\Debug\net8.0-windows\BusinessLayer.deps.json
+E:\Downloads\WebDev\Projects\DVL Coree\BusinessLayer\bin\Debug\net8.0-windows\BusinessLayer.dll
+E:\Downloads\WebDev\Projects\DVL Coree\BusinessLayer\bin\Debug\net8.0-windows\BusinessLayer.pdb
+E:\Downloads\WebDev\Projects\DVL Coree\BusinessLayer\bin\Debug\net8.0-windows\DataLayer.dll
+E:\Downloads\WebDev\Projects\DVL Coree\BusinessLayer\bin\Debug\net8.0-windows\DataLayer.pdb
+E:\Downloads\WebDev\Projects\DVL Coree\BusinessLayer\bin\Debug\net8.0-windows\DataLayer.dll.config
+E:\Downloads\WebDev\Projects\DVL Coree\BusinessLayer\obj\Debug\net8.0-windows\BusinessLayer.csproj.AssemblyReference.cache
+E:\Downloads\WebDev\Projects\DVL Coree\BusinessLayer\obj\Debug\net8.0-windows\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+E:\Downloads\WebDev\Projects\DVL Coree\BusinessLayer\obj\Debug\net8.0-windows\BusinessLayer.csproj.CoreCompileInputs.cache
+E:\Downloads\WebDev\Projects\DVL Coree\BusinessLayer\obj\Debug\net8.0-windows\Business.EA331CBA.Up2Date
+E:\Downloads\WebDev\Projects\DVL Coree\BusinessLayer\obj\Debug\net8.0-windows\BusinessLayer.dll
+E:\Downloads\WebDev\Projects\DVL Coree\BusinessLayer\obj\Debug\net8.0-windows\refint\BusinessLayer.dll
+E:\Downloads\WebDev\Projects\DVL Coree\BusinessLayer\obj\Debug\net8.0-windows\BusinessLayer.pdb
+E:\Downloads\WebDev\Projects\DVL Coree\BusinessLayer\obj\Debug\net8.0-windows\ref\BusinessLayer.dll
