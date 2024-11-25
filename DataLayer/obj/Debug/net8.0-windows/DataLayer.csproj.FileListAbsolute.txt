@@ -9,3 +9,6 @@ E:\Downloads\WebDev\Projects\DVL Coree\DataLayer\obj\Debug\net8.0-windows\DataLa
 E:\Downloads\WebDev\Projects\DVL Coree\DataLayer\obj\Debug\net8.0-windows\refint\DataLayer.dll
 E:\Downloads\WebDev\Projects\DVL Coree\DataLayer\obj\Debug\net8.0-windows\DataLayer.pdb
 E:\Downloads\WebDev\Projects\DVL Coree\DataLayer\obj\Debug\net8.0-windows\ref\DataLayer.dll
+E:\Downloads\WebDev\Projects\DVL Coree\DataLayer\bin\Debug\net8.0-windows\DataLayer.runtimeconfig.json
+E:\Downloads\WebDev\Projects\DVL Coree\DataLayer\obj\Debug\net8.0-windows\DataLayer.sourcelink.json
+E:\Downloads\WebDev\Projects\DVL Coree\DataLayer\obj\Debug\net8.0-windows\DataLayer.genruntimeconfig.cache

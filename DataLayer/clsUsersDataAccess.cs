@@ -7,7 +7,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.ComponentModel;
 using System.Net;
-
+using DataLayer.Models.Context;
 
 namespace DataLayer
 {
@@ -240,77 +240,50 @@ namespace DataLayer
         {
             int UserID = -1;
             string PasswordHash = "";
-            
             bool AreCredentialsCorrect = false;
 
-            SqlConnection connection = new SqlConnection(clsDataAccessSettings.ConnectionString);
-
-            string query = "SELECT Password, UserID FROM Users WHERE UserName = @UserName";
-
-            SqlCommand cmd = new SqlCommand(query, connection);
-
-            cmd.Parameters.AddWithValue("@UserName", UserName);
-
-            try
+            using (var context = new DbContext())
             {
-                connection.Open();
-                SqlDataReader reader = cmd.ExecuteReader();
+                var user = context.Users
+                    .Where(u => u.UserName == UserName)
+                    .FirstOrDefault();
 
-                if(reader.Read())
+                if (user is not null)
                 {
-                    UserID = (int)reader["UserID"];
-                    PasswordHash = (string)reader["Password"];
+                    PasswordHash = user.Password;
+                    AreCredentialsCorrect = BCrypt.Net.BCrypt.Verify(Password, PasswordHash);
+                    UserID = user.UserId;
+                } else
+                {
+                    AreCredentialsCorrect = false;
                 }
-                reader.Close();
-            }
-            catch
-            {
-                AreCredentialsCorrect = false;
-            }
-            finally
-            {
-                connection.Close();
-            }
-
-            if (PasswordHash != "")
-            {
-                AreCredentialsCorrect = BCrypt.Net.BCrypt.Verify(Password, PasswordHash);
-
             }
 
             return AreCredentialsCorrect ? UserID : -1;
         }
-        
+
         public static bool IsUserActive(string UserName)
         {
-            bool IsFound = false;
+            int UserID = -1;
 
-            SqlConnection connection = new SqlConnection(clsDataAccessSettings.ConnectionString);
-
-            string query = "SELECT Found = 1 FROM Users WHERE UserName = @UserName And IsActive = 1";
-
-            SqlCommand cmd = new SqlCommand(query, connection);
-
-            cmd.Parameters.AddWithValue("@UserName", UserName);
-
-            try
+            using (var context = new DbContext())
             {
-                connection.Open();
-                SqlDataReader reader = cmd.ExecuteReader();
+                var user = context.Users
+                    .Where(u => u.UserName == UserName)
+                    .Where(u => u.IsActive == true)
+                    .FirstOrDefault();
 
-                IsFound = reader.HasRows;
-                reader.Close();
-            }
-            catch
-            {
-                IsFound = false;
-            }
-            finally
-            {
-                connection.Close();
+                if (user is not null)
+                {
+                    UserID = user.UserId;
+                }
+                else
+                {
+                    UserID = -1;
+                }
             }
 
-            return IsFound;
+            return UserID != -1;
         }
         
         public static bool IsUser(int PersonID)

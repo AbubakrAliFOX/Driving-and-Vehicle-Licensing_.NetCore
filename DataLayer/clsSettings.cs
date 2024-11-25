@@ -11,7 +11,7 @@ namespace DataLayer
 
             return $@"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename={dbPath};Integrated Security=True;Connect Timeout=30";
         }
-
         public static string ConnectionString = CreateConnectionString();
     }
 }
+
